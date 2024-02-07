@@ -4,5 +4,5 @@
 Pillow: 9.5.0
 nltk: 3.8.1
 numpy: 1.24.3
-TensorFlow: 2.12.11
+TensorFlow: 2.12
 tflearn: 0.5.0
